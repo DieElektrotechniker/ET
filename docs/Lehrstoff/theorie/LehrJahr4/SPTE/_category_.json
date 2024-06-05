@@ -1,0 +1,8 @@
+{
+  "label": "SPTE",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Spezielle Technologie"
+  }
+}
